@@ -1,3 +1,1 @@
-Nombre: Facundo
-Apellido: Terán
-Cod. Comision: K1043
+Facundo Terán K1043
